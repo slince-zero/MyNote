@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "6b2a61e360446907",
+    "type": "split",
+    "children": [
+      {
+        "id": "0118042b0e81c5bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4e5cb90fc3413f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机网络/第四章 网络层/4.1 网络层概述.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5f5edb4b56d74d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef72bdb1adfe3ab9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07dd61f7280459ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e5c811ae08f9cb5c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "95d84494657426a1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d49c465ec7846189",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7458c9f73b64534",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3c7eff4035a172e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "计算机网络/第四章 网络层/4.1 网络层概述.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b32809fd032ae54f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "计算机网络/第四章 网络层/4.1 网络层概述.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "83ea28ab843e80fd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6add2bb21a5d6bb1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "计算机网络/第四章 网络层/4.1 网络层概述.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "e4e5cb90fc3413f1",
+  "lastOpenFiles": [
+    "计算机网络/img/08.png",
+    "计算机网络/第三章 数据链路层/3.2 集线器、交换机、虚拟局域网（VLAN）相关.md",
+    "计算机网络/第四章 网络层/4.1 网络层概述.md",
+    "计算机网络/img/07.png",
+    "计算机网络/第四章 网络层",
+    "计算机网络/第三章 数据链路层/3.1 基本概述.md",
+    "计算机网络/第一章 计算机网络的相关概述/1.3 三种交换方式.md",
+    "计算机网络/第一章 计算机网络的相关概述/1.4 计算机网络的定义.md",
+    "计算机网络/第一章 计算机网络的相关概述/1.5 计算机网络的性能指标.md",
+    "计算机网络/第一章 计算机网络的相关概述/1.6 计算机网络体系结构.md",
+    "计算机网络/第二章 物理层/2.2 传输方式、编码与调制.md",
+    "计算机网络/第二章 物理层/2.1 物理层的基本概念.md",
+    "计算机网络/img/06.png",
+    "计算机网络/img/05.png",
+    "计算机网络/第三章 数据链路层",
+    "计算机网络/img/04.png",
+    "计算机网络/img/03.png",
+    "计算机网络/第二章 物理层",
+    "计算机网络/img/02.jpg",
+    "未命名.canvas",
+    "计算机网络/第一章 计算机网络的相关概述/1.2 因特网概述.md",
+    "计算机网络/第一章 计算机网络的相关概述/1.1 计算机网络在信息时代的作用.md",
+    "计算机网络/img/01.png",
+    "计算机网络/img",
+    "计算机网络/第一章 计算机网络的相关概述",
+    "计算机网络"
+  ]
+}
