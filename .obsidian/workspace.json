@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/第四章 网络层/4.1 网络层概述.md",
+                "file": "计算机网络/第五章 运输层/5.1 运输层概述.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d49c465ec7846189",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/第四章 网络层/4.1 网络层概述.md",
+                "file": "计算机网络/第五章 运输层/5.1 运输层概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/第四章 网络层/4.1 网络层概述.md",
+                "file": "计算机网络/第五章 运输层/5.1 运输层概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/第四章 网络层/4.1 网络层概述.md"
+                "file": "计算机网络/第五章 运输层/5.1 运输层概述.md"
               }
             }
           }
@@ -149,9 +150,11 @@
   },
   "active": "e4e5cb90fc3413f1",
   "lastOpenFiles": [
+    "计算机网络/第四章 网络层/4.1 网络层概述.md",
+    "计算机网络/第五章 运输层/5.1 运输层概述.md",
+    "计算机网络/第五章 运输层",
     "计算机网络/img/08.png",
     "计算机网络/第三章 数据链路层/3.2 集线器、交换机、虚拟局域网（VLAN）相关.md",
-    "计算机网络/第四章 网络层/4.1 网络层概述.md",
     "计算机网络/img/07.png",
     "计算机网络/第四章 网络层",
     "计算机网络/第三章 数据链路层/3.1 基本概述.md",
