@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/第六章 应用层/6.1 应用层概述.md",
+                "file": "计算机网络/第七章 网络安全/7.1 网络安全概述.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d49c465ec7846189",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/第六章 应用层/6.1 应用层概述.md",
+                "file": "计算机网络/第七章 网络安全/7.1 网络安全概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/第六章 应用层/6.1 应用层概述.md",
+                "file": "计算机网络/第七章 网络安全/7.1 网络安全概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/第六章 应用层/6.1 应用层概述.md"
+                "file": "计算机网络/第七章 网络安全/7.1 网络安全概述.md"
               }
             }
           }
@@ -150,10 +149,13 @@
   },
   "active": "e4e5cb90fc3413f1",
   "lastOpenFiles": [
+    "计算机网络/第六章 应用层/6.1 应用层概述.md",
+    "计算机网络/img/12.png",
+    "计算机网络/第七章 网络安全/7.1 网络安全概述.md",
+    "计算机网络/第七章 网络安全",
     "计算机网络/第五章 运输层/5.1 运输层概述.md",
     "计算机网络/第二章 物理层/2.2 传输方式、编码与调制.md",
     "计算机网络/第二章 物理层/2.1 物理层的基本概念.md",
-    "计算机网络/第六章 应用层/6.1 应用层概述.md",
     "计算机网络/第六章 应用层",
     "计算机网络/img/09.png",
     "计算机网络/img/11.png",
@@ -175,7 +177,6 @@
     "计算机网络/img/04.png",
     "计算机网络/img/03.png",
     "计算机网络/第二章 物理层",
-    "计算机网络/img/02.jpg",
     "未命名.canvas",
     "计算机网络/第一章 计算机网络的相关概述/1.2 因特网概述.md",
     "计算机网络/第一章 计算机网络的相关概述/1.1 计算机网络在信息时代的作用.md",
